@@ -1,6 +1,6 @@
 # MONOLITH Loot
 
-**Site: <https://dezdeqness.github.io/WarEra-Mu-Battle-Loot/>** · version **1.3.0**
+**Site: <https://dezdeqness.github.io/WarEra-Mu-Battle-Loot/>** · version **1.3.1**
 
 Loot tracker for the [WarEra](https://app.warera.io) military unit **MONOLITH**: the active battles its members fight in,
 the loot tier each member gets right now, and how much damage it takes to move up.
